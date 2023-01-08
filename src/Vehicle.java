@@ -4,8 +4,6 @@ public class Vehicle {
     private float fuelUsage;
     private int passengers;
 
-    public Vehicle(){};
-
     public Vehicle(float fuel, float fuelUsage, int passengers){
         this.fuel = fuel;
         this.passengers = passengers;
